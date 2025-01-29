@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho como estagiario de TI na área de PMO
 - 🌱 Cursando Ciencia da Computação
 - 😄 Pronouns: Ele/Dele
-- 📧 contate-me por e-mail:bielzaofz6@gmail.com
+- 📧 contate-me por e-mail: bielzaofz6@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielribeiro07&show_icons=false&theme=dracula)
 
