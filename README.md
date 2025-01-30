@@ -7,7 +7,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielribeiro07&show_icons=false&theme=dracula)
 
-
+- Conhecimento em JavaScript adquirido por meio de Atividades Práticas Supervisionadas (APS) e trabalhos acadêmicos na faculdade.
+- Conhecimento em react adquiridos por meio de Atividades práticas Supervisionadas em trabalho na faculdade
+- Conhecimentos em cursos on-line em HTML e CSS, projetos desenvolvidos e atividades praticas supervisionadas em faculdade
+- Conhecimentos em cursos on-line em Python, projetos desenvolvidos e atividades praticas supervisionadas em faculdade
+- Conhecimentos em cursos on-line em Csharp, projetos desenvolvidos e atividades praticas supervisionadas em faculdade
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
