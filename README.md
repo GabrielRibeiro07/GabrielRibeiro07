@@ -4,7 +4,7 @@
 
 ### Projetos que eu desenvolvi: 
 - 🎵 Desenvolvi uma versão antiga do Spotify como forma de praticar e aprimorar meus conhecimentos, Caso não consiga acessar está em meu repositório com o nome de projeto-spotify<p>
-[![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://gabrielribeiro07.github.io/projeto-spotify/)
+[![Blog]([https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://gabrielribeiro07.github.io/projeto-spotify/](https://gabrielribeiro07.github.io/spotify-projeto/))
 
 ### Linguagens de progração que utilizo.
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
