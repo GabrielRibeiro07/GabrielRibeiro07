@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Gabriel Ribeiro ✨
 
 ### Projetos que eu desenvolvi: 
-- 🎵 Desenvolvi uma versão antiga do Spotify como forma de praticar e aprimorar meus conhecimentos,  Clique abaixo para ver o projeto.
+- 🎵 Desenvolvi uma versão antiga do Spotify como forma de praticar e aprimorar meus conhecimentos.<p>
 [![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://gabrielribeiro07.github.io/projeto-spotify/)
 
 ### Linguagens de progração que utilizo.
