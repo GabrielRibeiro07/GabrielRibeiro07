@@ -15,7 +15,6 @@
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 ### Sobre
 Estudante de ciência da computação, apaixonado por tecnologia, sinto que com mais experiências e conhecimento consigo solucionar soluções inovadores no dia a dia. 
 
