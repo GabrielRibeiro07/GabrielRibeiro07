@@ -6,7 +6,7 @@
 - 🎵 Desenvolvi uma versão antiga do Spotify como forma de praticar e aprimorar meus conhecimentos, Caso não consiga acessar está em meu repositório com o nome de projeto-spotify.<p>
 [![Blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://gabrielribeiro07.github.io/spotify-projeto/)
 
-- 🧮 Criei uma calucaldora que realiza equações básicas de adição, divisão, multiplicação e divsão <p>
+- 🧮 Criei uma calculadora que realiza equações básicas de adição, divisão, multiplicação e divsão <p>
 [![Calculadora](https://img.shields.io/badge/-Abrir%20Calculadora-blue?style=for-the-badge&logo=appveyor&logoColor=white)](https://gabrielribeiro07.github.io/calculadora/)
 
 
